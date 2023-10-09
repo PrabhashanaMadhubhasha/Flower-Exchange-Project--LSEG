@@ -1,0 +1,6 @@
+Client Order ID,Order ID,Instrument,Side,Price,Quantity,Status,Reason,Transaction Time,
+ORD23001,aa13, ,1,55,100,Reject,Invalid Instrument,20230903-224226.351
+ORD23002,aa14,Rose,3,65,100,Reject,Invalid Side,20230903-224226.352
+ORD23003,aa15,Lavender,2,1,101,Reject,Invalid Quantity,20230903-224226.352
+ORD23004,aa16,Tulip,1,-1,100,Reject,Invalid Price,20230903-224226.352
+ORD23005,aa17 ,Orchid,1,-1,1000,Reject,Invalid Price,20230903-224226.353
